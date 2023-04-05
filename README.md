@@ -7,7 +7,7 @@ This is a web based health application has been developed for the accomplishment
 
 
 ***Project link : https://yellow-sky-05009ad00.2.azurestaticapps.net
-**project demo video link
+**project demo video link : https://youtu.be/yTL_bNvXJ9s
 
 
 ##AZure Technologies Used For Project : -
